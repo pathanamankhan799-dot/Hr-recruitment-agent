@@ -1,0 +1,3 @@
+Position: Junior Python Developer
+Requirements: Python programming, Git version control, and basic SQL database knowledge.
+Experience: 1-2 years minimum.
