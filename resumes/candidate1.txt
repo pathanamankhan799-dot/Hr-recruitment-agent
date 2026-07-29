@@ -1,0 +1,4 @@
+Name: Jane Doe
+Skills: Python, Django, Git, HTML, JavaScript.
+Experience: 2 years working as a software trainee.
+Database: MySQL basics.
